@@ -11,8 +11,7 @@ A dynamic cook book ( recipe app ) developed using [Flutter](https://flutter.dev
 - User authentication and profile management.
 - Integration with a remote SQL Server database for storing recipes and user information.
 
-## Screenshots
-
+## RecipeBox in action 
 
 ## Installation
 
