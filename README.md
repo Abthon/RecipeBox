@@ -58,7 +58,7 @@ To run the Recipe app locally, follow these steps:
     - For Windows:
 
     ```
-        .\<Your Virtual environment Name>\Scripts\activate.bat
+        <Your Virtual environment Name>\Scripts\activate
     ```
 
     - For macOS/Linux:
