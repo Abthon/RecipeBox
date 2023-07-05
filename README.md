@@ -12,7 +12,7 @@ A dynamic cook book ( recipe app ) developed using [Flutter](https://flutter.dev
 - Integration with a remote SQL Server database for storing recipes and user information.
 
 ## RecipeBox in action 
-
+![RecipeBox](https://github.com/Abthon/RecipeBox/blob/main/RecipeBoxInAction/RecipeBoxInAction.gif)
 ## Installation
 
 To run the Recipe app locally, follow these steps:
