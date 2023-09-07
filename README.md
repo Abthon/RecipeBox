@@ -11,8 +11,24 @@ A dynamic cook book ( recipe app ) developed using [Flutter](https://flutter.dev
 - User authentication and profile management.
 - Integration with a remote SQL Server database for storing recipes and user information.
 
-## RecipeBox in action 
-![RecipeBox](https://github.com/Abthon/RecipeBox/blob/main/RecipeBoxInAction/RecipeBoxInAction.gif)
+<div align="center">
+  <h2>Screenshots</h2>
+  <div class="screenshot-grid">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-32.jpg" alt="Screenshot 1" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-26.jpg" alt="Screenshot 2" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-30.jpg" alt="Screenshot 3" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-21.jpg" alt="Screenshot 4" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-33.jpg" alt="Screenshot 5" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-35.jpg" alt="Screenshot 6" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-36.jpg" alt="Screenshot 7" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-37.jpg" alt="Screenshot 8" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-39.jpg" alt="Screenshot 9" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-41.jpg" alt="Screenshot 10" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-42.jpg" alt="Screenshot 11" width="200" height="400">
+    <!-- Add more screenshots here -->
+  </div>
+</div>
+
 ## Installation
 
 To run the Recipe app locally, follow these steps:
