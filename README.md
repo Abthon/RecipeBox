@@ -19,13 +19,9 @@ A dynamic cook book ( recipe app ) developed using [Flutter](https://flutter.dev
     <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-30.jpg" alt="Screenshot 3" width="200" height="400">
     <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-21.jpg" alt="Screenshot 4" width="200" height="400">
     <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-33.jpg" alt="Screenshot 5" width="200" height="400">
-    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-35.jpg" alt="Screenshot 6" width="200" height="400">
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-39.jpg" alt="Screenshot 6" width="200" height="400">
     <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-36.jpg" alt="Screenshot 7" width="200" height="400">
-    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-37.jpg" alt="Screenshot 8" width="200" height="400">
-    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-39.jpg" alt="Screenshot 9" width="200" height="400">
-    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-41.jpg" alt="Screenshot 10" width="200" height="400">
-    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-42.jpg" alt="Screenshot 11" width="200" height="400">
-    <!-- Add more screenshots here -->
+    <img src="https://github.com/Abthon/RecipeBox/blob/main/SampleScreenShot/photo_2023-07-05_08-13-42.jpg" alt="Screenshot 8" width="200" height="400">
   </div>
 </div>
 
